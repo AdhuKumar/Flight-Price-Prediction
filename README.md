@@ -1,14 +1,5 @@
 # Flight Fare Prediction: 
 
-## Table of Content
-  * [Demo](#demo)
-  * [Overview](#overview)
-  * [Motivation](#motivation)
-  * [Installation](#installation)
-  * [Directory Tree](#directory-tree)
-  * [Future scope of project](#future-scope)
-
-
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
