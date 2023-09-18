@@ -1,4 +1,4 @@
-# Flight Fare Prediction: 
+# **Flight Price Prediction**
 
 
 ## Overview
